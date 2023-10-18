@@ -83,7 +83,7 @@
         'views/project_scrum_role_view.xml',
         'wizards/project_scrum_email_view.xml',
         'wizards/analytic_timesheet_view.xml',
-        'views/project_scrum_devteam_view.xml',
+        'views/project_scrum_devteam_view.xml'
     ],
     'demo': ['data/project_scrum_extended_data.xml'],
 
